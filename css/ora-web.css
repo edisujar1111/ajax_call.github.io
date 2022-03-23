@@ -76,7 +76,7 @@
 
 .nav-item.active .icon {
     transform: translateY(22px);
-    color: var(--danger);
+    color: var(--prymary);
 }
 
 .nav-item.active .idktr {
