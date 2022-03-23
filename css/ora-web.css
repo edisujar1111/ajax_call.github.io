@@ -43,7 +43,7 @@
 
 .nav-item:hover .icon {
     transform: translateY(22px);
-    color: var(--danger);
+    color: var(--prymary);
 }
 
 .idktr {
